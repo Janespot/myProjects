@@ -1,0 +1,27 @@
+        #top-right{
+		   width:15%;
+		   float:right;
+		   }
+		.header{
+           width:70%;
+		   font-family:cursive;
+		   text-align:center;
+		   margin-left:15%;
+         }
+		 #head
+		 {
+		   font-size:103px;
+		    font-family:cursive;
+		    
+		 }
+		 #caption{
+		    font-size:23px;
+		 }
+		 body{
+		    background-color:#F5F5DC;
+		 }
+		 #input{
+			 font-size:22px;width:535px;height:44px;
+			 border:none;
+		 }
+		 
