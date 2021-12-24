@@ -39,10 +39,12 @@
 			body{
 				font-weight:bold;
 				margin:1px;
+				padding-top:1px;
+				padding-bottom:22px;
 			}
 			#input{width:99%;text-align:center;}
 			span{display:none;}
-			button{float:left;width:15%;}
+			button{float:left;}
 			a{
 				font-size:32px;
 				text-decoration:none;
