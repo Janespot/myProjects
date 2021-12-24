@@ -1,9 +1,4 @@
-<<<<<<< HEAD
         #top-right{
-=======
-
-	   #top-right{
->>>>>>> 92385fbc366cac732af3e601ae51c46eecb13ead
 		   width:15%;
 		   float:right;
 		   }
@@ -15,7 +10,7 @@
          }
 		 #head
 		 {
-		   font-size:53px;
+		   font-size:103px;
 		    font-family:cursive;
 		    
 		 }
@@ -26,43 +21,7 @@
 		    background-color:#F5F5DC;
 		 }
 		 #input{
-			 font-size:22px;width:80%;height:44px;
+			 font-size:22px;width:535px;height:44px;
 			 border:none;
-			 text-align:center;
-<<<<<<< HEAD
 		 }
 		 
-=======
-		
-         }
-    /*     @media only screen and (max-width: 600px) {
-          .col-1 {width: 8.33%;}
-          .col-2 {width: 16.66%;}
-          .col-3 {width: 25%;}
-          .col-4 {width: 33.33%;}
-          .col-5 {width: 41.66%;}
-          .col-6 {width: 50%;}
-          .col-7 {width: 58.33%;}
-          .col-8 {width: 66.66%;}
-          .col-9 {width: 75%;}
-          .col-10 {width: 83.33%;}
-          .col-11 {width: 91.66%;}
-          .col-12 {width: 100%;}
-		  #head{font-size:54px; font-family:cursive;}
-		   #caption{font-size:18px;}
-		   .header{
-			   font-family:cursive;
-		       text-align:center;
-		   }
-		    body{
-		    background-color:#F5F5DC;
-		 }
-		  #input{
-			 font-size:22px;
-			 border:none;
-			 text-align:center;
-		  }
-        }*/
-
-		 
->>>>>>> 92385fbc366cac732af3e601ae51c46eecb13ead
