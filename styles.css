@@ -42,6 +42,7 @@
 			}
 			#input{width:99%;text-align:center;}
 			span{display:none;}
+			button{float:left;width:15%;}
 			a{
 				font-size:32px;
 				text-decoration:none;
