@@ -37,9 +37,13 @@
 		@media only screen and (max-width: 768px) {
 			body{
 				font-weight:bold;
+				padding:0;
 			}
+			#input{width:90%;}
+			span{display:none;}
 			a{
 				font-size:32px;
+				text-decoration:none;
 			}
 			#caption{
 				font-size:32px;
