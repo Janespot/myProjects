@@ -24,4 +24,18 @@
 			 font-size:22px;width:80%;height:44px;
 			 border:none;
 		 }
+		@media only screen and (min-width: 768px) {
+			body{
+				font-weight:bold;
+			}
+			a{
+				font-size:32px;
+			}
+			#caption{
+				font-size:32px;
+			}
+			#head{
+				font-size:72px;
+			}
+		}
 		 
