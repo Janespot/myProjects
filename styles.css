@@ -24,6 +24,7 @@
 		 #input{
 			 font-size:22px;width:80%;height:44px;
 			 border:none;
+			 text-align:center;
 		 }
 		 a{
 			text-decoration:none;
@@ -39,7 +40,7 @@
 				font-weight:bold;
 				padding:0;
 			}
-			#input{width:90%;}
+			#input{width:90%;text-align:center;}
 			span{display:none;}
 			a{
 				font-size:32px;
