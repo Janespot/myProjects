@@ -1,4 +1,4 @@
-       @media only screen and (min-width: 786px){
+       @media only screen and (min-width: 600px){
 	   #top-right{
 		   width:15%;
 		   float:right;
@@ -25,9 +25,7 @@
 			 font-size:42px;width:85%;height:44px;
 			 border:none;
 			 text-align:center;
-		 }
-		 [class*="col-"] {
-         width: 100%;
+		
          }
 		 }
 
