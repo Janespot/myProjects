@@ -10,7 +10,7 @@
          }
 		 #head
 		 {
-		   font-size:103px;
+		   font-size:53px;
 		    font-family:cursive;
 		    
 		 }
@@ -21,7 +21,8 @@
 		    background-color:#F5F5DC;
 		 }
 		 #input{
-			 font-size:22px;width:535px;height:44px;
+			 font-size:22px;width:80%;height:44px;
 			 border:none;
+			 text-align:center;
 		 }
 		 
